@@ -19,7 +19,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [The Problem](#-the-problem)
 - [Why It Matters for India](#-why-it-matters-for-india)
@@ -40,7 +40,7 @@
 
 ---
 
-## 🌍 The Problem
+##  The Problem
 
 ### Global E-Waste Crisis
 
@@ -60,10 +60,10 @@ The world generated a record **62 million tonnes** of electronic waste in 2022 �
 
 | Destination | Consequence |
 |---|---|
-| 🔥 **Burned** by informal recyclers | Releases dioxins, furans, and heavy metals |
-| 🏚️ **Dumped** in landfills | Contaminates groundwater with mercury, lead, and cadmium |
-| 🚢 **Illegally exported** to developing nations | Under the guise of "second-hand goods" |
-| 🗄️ **Hoarded** in drawers and closets | Never recycled at all |
+|  **Burned** by informal recyclers | Releases dioxins, furans, and heavy metals |
+|  **Dumped** in landfills | Contaminates groundwater with mercury, lead, and cadmium |
+|  **Illegally exported** to developing nations | Under the guise of "second-hand goods" |
+|  **Hoarded** in drawers and closets | Never recycled at all |
 
 ### The Core Information Gap
 
@@ -103,7 +103,7 @@ India is the world's **third-largest generator of e-waste**:
 
 ---
 
-## 💡 Our Solution
+##  Our Solution
 
 **Avartana** (अवर्तन — Sanskrit for *"Cycle"*) is a **Digital Product Passport (DPP) platform** for electronics — a web-based application that gives every electronic device a digital identity containing:
 
@@ -133,7 +133,7 @@ India is the world's **third-largest generator of e-waste**:
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 ```
 ┌───────────┐    ┌───────────┐    ┌───────────┐    ┌───────────┐    ┌───────────┐
@@ -166,20 +166,20 @@ India is the world's **third-largest generator of e-waste**:
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 | Feature | Description |
 |---|---|
-| 🔍 **Product Search** | Search any device by name or scan barcode |
-| 📄 **Digital Passport** | Material breakdown, recyclability score, recovery value |
-| 🗺️ **Recycler Map** | CPCB-certified recyclers near you |
-| 📊 **Impact Dashboard** | Real-time: kg saved, CO₂ avoided, INR value |
-| 🔐 **Verification Ledger** | Tamper-proof blockchain-inspired log |
-| 📱 **Mobile-First** | Works on India's 750M+ smartphones |
+|  **Product Search** | Search any device by name or scan barcode |
+|  **Digital Passport** | Material breakdown, recyclability score, recovery value |
+|  **Recycler Map** | CPCB-certified recyclers near you |
+|  **Impact Dashboard** | Real-time: kg saved, CO₂ avoided, INR value |
+|  **Verification Ledger** | Tamper-proof blockchain-inspired log |
+|  **Mobile-First** | Works on India's 750M+ smartphones |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -193,7 +193,7 @@ India is the world's **third-largest generator of e-waste**:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 avartana/
@@ -218,7 +218,7 @@ avartana/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 # 1. Clone the repository
@@ -236,7 +236,7 @@ open frontend/index.html
 
 ---
 
-## 🌐 UN & Policy Alignment
+##  UN & Policy Alignment
 
 | Framework | Relevance |
 |---|---|
@@ -247,7 +247,7 @@ open frontend/index.html
 
 ---
 
-## 📈 Impact Projections
+##  Impact Projections
 
 ### At 1% Adoption — 14M Indian Users Recycling 1 Device/Year
 
@@ -261,7 +261,7 @@ open frontend/index.html
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 | Phase | Timeline | Deliverables |
 |---|---|---|
@@ -273,7 +273,7 @@ open frontend/index.html
 
 ---
 
-## 🆚 Competitors & Differentiation
+##  Competitors & Differentiation
 
 ### Global Competitors
 
@@ -306,7 +306,7 @@ open frontend/index.html
 
 ---
 
-## 🏆 Why Avartana Wins
+##  Why Avartana Wins
 
 > *"Global players like Circularise build DPPs for enterprises. Indian players like Recykal build EPR compliance for brands. Avartana is the ONLY platform built for consumers — free, simple, and designed for 1.4 billion Indians."*
 
@@ -333,7 +333,7 @@ open frontend/index.html
 
 ---
 
-## 📚 References
+##  References
 
 1. [Global E-waste Monitor 2024](https://ewastemonitor.info/) — UNITAR & ITU
 2. [E-Waste (Management) Rules, 2022](https://moef.gov.in/) — MoEFCC, India
@@ -346,7 +346,7 @@ open frontend/index.html
 
 ---
 
-## 👥 Team
+##  Team
 
 **Team Avartana** — अवर्तन · *Cycle · Renewal · Return*
 
@@ -361,7 +361,7 @@ open frontend/index.html
 
 ---
 
-## 📄 License
+##  License
 
 MIT License — Copyright © 2026 Team Avartana
 
@@ -372,5 +372,5 @@ MIT License — Copyright © 2026 Team Avartana
   <br><br>
   <strong>Team Avartana · Parul University · 2026</strong>
   <br><br>
-  <em>⚡ "Giving e-waste a second life, one device at a time."</em>
+  <em> "Giving e-waste a second life, one device at a time."</em>
 </p>
