@@ -107,7 +107,7 @@ India is the world's **third-largest generator of e-waste**:
 
 **Avartana** (अवर्तन — Sanskrit for *"Cycle"*) is a **Digital Product Passport (DPP) platform** for electronics — a web-based application that gives every electronic device a digital identity containing:
 
-- ✅ Its complete material composition (which metals, at what percentages,etcs)
+- ✅ Its complete material composition (which metals, at what percentages)
 - ✅ Its recyclability score and estimated recovery value
 - ✅ Certified recyclers near the user who can process it properly
 - ✅ A tamper-evident verification ledger proving recycling happened
