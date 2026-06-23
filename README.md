@@ -110,7 +110,7 @@ India is the world's **third-largest generator of e-waste**:
 - ✅ Its complete material composition (which metals, at what percentages)
 - ✅ Its recyclability score and estimated recovery value
 - ✅ Certified recyclers near the user who can process it properly
-- ✅ A tamper-evident verification ledger proving recycling happened
+- ✅ A tamper-evident verification ledger proving recycling happens 
 
 ### The Three-Sided Bridge
 
