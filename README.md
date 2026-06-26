@@ -189,7 +189,7 @@ India is the world's **third-largest generator of e-waste**:
 | Maps | Google Maps Embed API (free) |
 | Hosting | Vercel / Netlify (free tier) |
 
-> **Total Deployment Cost: ₹ 0**
+> **Total Deployment Cost: ₹ 0.00**
 
 ---
 
