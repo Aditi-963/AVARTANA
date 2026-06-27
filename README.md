@@ -1,5 +1,5 @@
 # Avartana — अवर्तन
-### *Digital Product Passport for Electronic devices*
+### *Digital Product Passport for Electronics*
 
 > **"Giving e-waste a second life, one device at a time."**
 
