@@ -1,7 +1,7 @@
 # Avartana — अवर्तन
 ### *Digital Product Passport for Electronics*
 
-> **"Giving e-waste a second life, one device at a time."**
+> **"Giving e-waste a second life, one device at a time"**
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-10B981?style=flat-square" alt="MIT License" />
